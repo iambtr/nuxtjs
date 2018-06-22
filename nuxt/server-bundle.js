@@ -61,7 +61,7 @@ module.exports =
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/nuxt/";
+/******/ 	__webpack_require__.p = "/nuxtjs/nuxt/";
 
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 196);
@@ -230,7 +230,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/Footer.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/Footer.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-4e99f6ef"
@@ -405,7 +405,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/CarbonAds.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/CarbonAds.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] CarbonAds.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -436,7 +436,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/HtmlParser.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/HtmlParser.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] HtmlParser.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -547,7 +547,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/Affix.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/Affix.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-0437d0ac"
@@ -1129,7 +1129,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/RecursiveList.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/RecursiveList.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-4c658acc"
@@ -1667,43 +1667,43 @@ module.exports = require("querystring");
 __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1_vue_router___default.a);
 
 var _3494e3a2 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/index.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/index.vue');
 } : __webpack_require__(168);
 
 var _47f03eea =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/api.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/api.vue');
 } : __webpack_require__(159);
 
 var _7a5c66b6 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/api/_slug.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/api/_slug.vue');
 } : __webpack_require__(160);
 
 var _374771e6 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/faq.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/faq.vue');
 } : __webpack_require__(163);
 
 var _c1c45abe =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/faq/_slug.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/faq/_slug.vue');
 } : __webpack_require__(164);
 
 var _2e1a5e68 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide.vue');
 } : __webpack_require__(165);
 
 var _23a45d78 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide/release-notes.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide/release-notes.vue');
 } : __webpack_require__(167);
 
 var _3523ed07 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide/_slug.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide/_slug.vue');
 } : __webpack_require__(166);
 
 var _354ed3ae =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/examples.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/examples.vue');
 } : __webpack_require__(161);
 
 var _15f50eb8 =  false ? function () {
-	return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/examples/_slug.vue');
+	return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/examples/_slug.vue');
 } : __webpack_require__(162);
 
 var scrollBehavior = function scrollBehavior(to, from, savedPosition) {
@@ -1879,7 +1879,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var layouts = {
 
   "_default":  false ? function () {
-    return System.import('/Users/Atinux/Projets/nuxt/nuxtjs.org/layouts/default.vue');
+    return System.import('/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/layouts/default.vue');
   } : __webpack_require__(157)
 
 };
@@ -2361,7 +2361,7 @@ var cacheFiles = {};
         return '';
       }
       if (this.isImage) {
-        return 'https://github.com/nuxt/nuxt.js/blob/master/' + this.currentFile.path + '?raw=true';
+        return 'https://github.com/nuxtjs/nuxt/nuxt.js/blob/master/' + this.currentFile.path + '?raw=true';
       }
       return this.content;
     },
@@ -2389,7 +2389,7 @@ var cacheFiles = {};
       }
       if (!this.content) {
         __WEBPACK_IMPORTED_MODULE_0_axios___default()({
-          url: 'https://api.github.com/repos/nuxt/nuxt.js/contents/' + file.path,
+          url: 'https://api.github.com/repos/nuxtjs/nuxt/nuxt.js/contents/' + file.path,
           headers: {
             'Authorization': 'token ' + "4aa6bcf919d238504e7db59a66d32e78281c0ad3"
           }
@@ -2512,7 +2512,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         target: '_blank'
       }, {
         name: this.$store.state.lang.links.chat,
-        path: 'https://gitter.im/nuxt/nuxt.js',
+        path: 'https://gitter.im/nuxtjs/nuxt/nuxt.js',
         target: '_blank'
       }, {
         name: this.$store.state.lang.links.vuejs,
@@ -2632,7 +2632,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     var _this = this;
 
     return __WEBPACK_IMPORTED_MODULE_0_axios___default()({
-      url: 'https://api.github.com/repos/nuxt/nuxt.js/contents/' + this.path,
+      url: 'https://api.github.com/repos/nuxtjs/nuxt/nuxt.js/contents/' + this.path,
       headers: {
         'Authorization': 'token ' + "4aa6bcf919d238504e7db59a66d32e78281c0ad3"
       }
@@ -2965,7 +2965,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
             case 15:
               data.attrs = res.data.attrs;
               data.body = res.data.body;
-              data.docLink = 'https://github.com/nuxt/docs/blob/master' + path + '.md';
+              data.docLink = 'https://github.com/nuxtjs/nuxt/docs/blob/master' + path + '.md';
               if (store.state.lang.iso === 'ru') {
                 data.docLink = 'https://github.com/translation-gang/ru.docs.nuxtjs/blob/translation-ru' + path + '.md';
               } else if (store.state.lang.iso === 'cn') {
@@ -3163,7 +3163,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
   computed: {
     downloadLink: function downloadLink() {
-      return 'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuxt/nuxt.js/tree/master/examples/' + this.attrs.github;
+      return 'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuxtjs/nuxt/nuxt.js/tree/master/examples/' + this.attrs.github;
     }
   },
   scrollToTop: true,
@@ -3304,7 +3304,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
             case 15:
               data.attrs = res.data.attrs;
               data.body = res.data.body;
-              data.docLink = 'https://github.com/nuxt/docs/blob/master' + path + '.md';
+              data.docLink = 'https://github.com/nuxtjs/nuxt/docs/blob/master' + path + '.md';
               if (store.state.lang.iso === 'ru') {
                 data.docLink = 'https://github.com/translation-gang/ru.docs.nuxtjs/blob/translation-ru' + path + '.md';
               } else if (store.state.lang.iso === 'cn') {
@@ -3464,7 +3464,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
             case 15:
               data.attrs = res.data.attrs;
               data.body = res.data.body;
-              data.docLink = 'https://github.com/nuxt/docs/blob/master' + path + '.md';
+              data.docLink = 'https://github.com/nuxtjs/nuxt/docs/blob/master' + path + '.md';
               if (store.state.lang.iso === 'ru') {
                 data.docLink = 'https://github.com/translation-gang/ru.docs.nuxtjs/blob/translation-ru' + path + '.md';
               } else if (store.state.lang.iso === 'cn') {
@@ -3540,7 +3540,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       isDev: isDev
     };
     return __WEBPACK_IMPORTED_MODULE_1_axios___default()({
-      url: 'https://api.github.com/repos/nuxt/nuxt.js/releases',
+      url: 'https://api.github.com/repos/nuxtjs/nuxt/nuxt.js/releases',
       headers: {
         'Authorization': 'token ' + "4aa6bcf919d238504e7db59a66d32e78281c0ad3"
       }
@@ -5876,7 +5876,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/.nuxt/App.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/.nuxt/App.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] App.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -5909,7 +5909,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/.nuxt/components/nuxt-loading.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/.nuxt/components/nuxt-loading.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-2aeb4e08"
@@ -5941,7 +5941,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/.nuxt/components/nuxt.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/.nuxt/components/nuxt.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] nuxt.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -5974,7 +5974,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/Dropdown.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/Dropdown.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-38c38936"
@@ -6008,7 +6008,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/FilesTree.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/FilesTree.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-df2e5dde"
@@ -6042,7 +6042,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/Header.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/Header.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-6fcc5ae1"
@@ -6076,7 +6076,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/components/Search.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/components/Search.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-60d64f08"
@@ -6110,7 +6110,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/layouts/default.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/layouts/default.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-cc2bcbd4"
@@ -6144,7 +6144,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/layouts/error.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/layouts/error.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-1a01b4c6"
@@ -6176,7 +6176,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/api.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/api.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] api.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6207,7 +6207,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/api/_slug.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/api/_slug.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] _slug.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6238,7 +6238,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/examples.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/examples.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] examples.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6271,7 +6271,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/examples/_slug.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/examples/_slug.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-15f50eb8"
@@ -6303,7 +6303,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/faq.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/faq.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] faq.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6334,7 +6334,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/faq/_slug.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/faq/_slug.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] _slug.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6365,7 +6365,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] guide.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6396,7 +6396,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide/_slug.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide/_slug.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] _slug.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6427,7 +6427,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/guide/release-notes.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/guide/release-notes.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 if (__vue_options__.functional) {console.error("[vue-loader] release-notes.vue: functional components are not supported and should be defined in plain js files using render functions.")}
@@ -6460,7 +6460,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Atinux/Projets/nuxt/nuxtjs.org/pages/index.vue"
+__vue_options__.__file = "/Users/Atinux/Projets/nuxtjs/nuxt/nuxtjs.org/pages/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-3494e3a2"
@@ -6732,7 +6732,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }, [_c('a', {
     staticClass: "button",
     attrs: {
-      "href": "https://github.com/nuxt/nuxt.js",
+      "href": "https://github.com/nuxtjs/nuxt/nuxt.js",
       "target": "_blank"
     }
   }, [_vm._v("\n          " + _vm._s(_vm.$store.state.lang.links.github) + "\n        ")])])])]), _c('nuxt-footer')], 1)
